@@ -1,6 +1,6 @@
 ---
-Sl: 1, 2, 3
-Names: Savitha, Dilip, Gowtham
+layout: slide
+title: "Welcome to our slide deck!"
 ---
 Welcome to Hogwarts!
 

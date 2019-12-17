@@ -1,6 +1,6 @@
 ---
-layout: slide
-title: "Welcome to our second slide!"
+Sl: 1, 2, 3
+Names: Savitha, Dilip, Gowtham
 ---
-Your text
-Use the left arrow to go back!
+Welcome to Hogwarts!
+
